@@ -1,0 +1,17 @@
+{
+  "name": "utools-join",
+  "version": "1.0.0",
+  "description": "utools插件，将多行数据 join 为一行数据",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": "git@github.com:Bpazy/utools-join.git",
+  "author": "ziyuan <hanziyuan08@outlook.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^19.0.0",
+    "@rollup/plugin-node-resolve": "^13.0.0",
+    "rollup": "^2.51.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "pluginName": "join",
+    "description": "将多行数据 join 为逗号分隔的一行数据",
+    "homepage": "https://github.com/Bpazy/utools-join",
+    "version": "0.0.1",
+    "logo": "logo.png",
+    "preload": "dist/preload.js",
+    "features": [
+        {
+            "code": "join",
+            "cmds": [
+                "join"
+            ]
+        }
+    ]
+}
